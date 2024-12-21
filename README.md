@@ -35,4 +35,4 @@
   
 </div>
 
-![snake animation](https://github.com/Nando-2309/Nando-2309/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/Nando-2309/Nando-2309/blob/output/github-contribution-grid-snake.svg)
