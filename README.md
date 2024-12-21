@@ -8,6 +8,11 @@
 - 📫 Como entrar em contato comigo: nandodev2309@gmail.com
 - 😄 Pronouns: ele/dele
 
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Leandro!;" />
+</h1>
+
 <div>
 <a href="https://github.com/Nando-2309">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Nando-2309&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -36,3 +41,7 @@
 </div>
 
 ![Snake animation](https://github.com/Nando-2309/Nando-2309/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+de+❤️pela+atenção!;" />
+</h1>
