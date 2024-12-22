@@ -42,7 +42,7 @@
  
  <img loading="lazy" height="250em" src="https://github.com/user-attachments/assets/1aef5be1-db57-4cc9-a65c-23b4174e0ee6"/>
 
- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Nando-2309/Nando-2309/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
